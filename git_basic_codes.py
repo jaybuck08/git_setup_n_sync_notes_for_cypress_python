@@ -23,3 +23,7 @@
 
 
 # one more time again
+
+
+# git rm -r --cached  : used to clear the cache for files on vs code that have already been pushed to git
+# .env   : these files are used to save secert keys e.g. passwords for your eyes only
