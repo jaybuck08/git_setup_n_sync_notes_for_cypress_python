@@ -22,7 +22,7 @@
 
 # _________________________________________________________________________________________________
 
-# setting up files in vs code to link to Github (manually with the script)
+# setting up files in vs code to link to Github (manually with the script in vs code terminal)
 
 #1 git init  :initailses the git in your system from the folder you are currently in. (the folder created from this is not visible in vs code)
 
