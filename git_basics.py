@@ -63,5 +63,5 @@
 #3 once you commim/sync the file will not be updated in the next run
 #4 if you had already added a file the first time, you will need to clear cache first using the below #5 before proceeding
 
-#5 "git rm -r --cached ." : when trying to pusg again, thi is used to clear the cache for files on vs code that have already been pushed to git
+#5 "git rm -r --cached ." : when trying to pusg again, this is used to clear the cache for files on vs code that have already been pushed to git
 # .env   : these files are used to save secert keys e.g. passwords for your eyes only.
