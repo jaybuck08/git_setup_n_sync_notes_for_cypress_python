@@ -1,4 +1,4 @@
 def ontime():
-    print("what a wonderful world")
+    print("what a wonderful day")
 
 
