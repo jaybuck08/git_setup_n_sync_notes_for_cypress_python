@@ -1,7 +1,7 @@
 
 
 
-# To link tests to your GIT account (automatically with vs code):
+# To link tests to your GIT account (automatically with vs code)::
 
 # create new repository in git e.g "ecommerce_testing" and copy the link
 # Go to VS code and type "git init" in the treminal of the test or file you want to link
